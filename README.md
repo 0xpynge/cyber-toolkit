@@ -15,16 +15,7 @@ A list of tools used for checking the reputation of IP addresses and URLs.
 
 ## 📁 File | Hash | Analysis | Sandbox Tools
 
-1. [FileSec.io](https://filesec.io/)  
-2. [LOLBAS](https://lolbas-project.github.io)  
-3. [GTFOBins](https://gtfobins.github.io)  
-4. [MetaDefender Cloud](https://metadefender.com/)  
-5. [Cuckoo Sandbox](https://cuckoosandbox.org)  
-6. [Any.Run](https://any.run)  
-7. [Hybrid-Analysis](https://www.hybrid-analysis.com)  
-8. [Joe Sandbox](https://www.joesandbox.com)  
-9. [VMRay Analyzer](https://www.vmray.com)  
-10. [Triage Sandbox](https://tria.ge)
+
 
 
 ## 🔐 File Hash Tools
