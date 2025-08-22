@@ -2,7 +2,15 @@
 
 A list of tools used for checking the reputation of IP addresses and URLs.
 
-
+1. [VirusTotal](https://www.virustotal.com)
+2. [URL Scan](https://urlscan.io)
+3. [AbuseIPDB](https://abuseipdb.com)
+4. [Cisco Talos](https://talosintelligence.com)
+5. [IBM X-Force](https://exchange.xforce.ibmcloud.com)
+6. [Palo Alto URL Filtering](https://urlfiltering.paloaltonetworks.com)
+7. [Symantec WebPulse](https://sitereview.broadcom.com)
+8. [IP Void](https://ipvoid.com)
+9. [URL Void](https://urlvoid.com)
 
 
 ## 📁 File | Hash | Analysis | Sandbox Tools
