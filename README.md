@@ -27,7 +27,7 @@ A list of tools used for checking the reputation of IP addresses and URLs.
 10. [Triage Sandbox](https://tria.ge)
 
 
-## 🔐 File Hash Tofols
+## 🔐 File Hash Tools
 
 Utilities and commands for generating or verifying file hashes, useful for integrity checking, malware identification, and forensic validation.
 
