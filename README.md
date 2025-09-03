@@ -45,7 +45,7 @@ Get-FileHash -InputObject "This is a string" -Algorithm MD5
 shasum -a 256 filename
 ```
 
-## 🖥️ System Monitoring | Malware Behavior Tools
+## 🖥️ System Monitoring | 
 
 1. [Process Hacker](https://processhacker.sourceforge.io/)
 2. [Process Monitor (ProcMon)](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
