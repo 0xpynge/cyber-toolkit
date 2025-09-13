@@ -1,6 +1,6 @@
 ## 🛡️ IP & URL Reputation Tools
 
-A list of tools used for checking the reputation of IP addresses and URLs
+A list of tools used for checking the reputation of IP addresses and URLs.
 
 1. [VirusTotal](https://www.virustotal.com)
 2. [URL Scan](https://urlscan.io)
