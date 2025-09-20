@@ -1,4 +1,4 @@
-## 🛡️ IP & URL Reputation Tools
+## 🛡️ IP & URL Reputation Tool
 
 A list of tools used for checking the reputation of IP addresses and URLs.
 
